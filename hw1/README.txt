@@ -1,0 +1,1 @@
+Cheng-Han Chuang, 3036578130, install pandas and changing featurize.py
